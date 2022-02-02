@@ -137,7 +137,10 @@ _TeamCity*
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
+
+[Cc]ode[Cc]overage/
 CodeCoverage/*
+
 
 # NCrunch
 _NCrunch_*
